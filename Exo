@@ -24,3 +24,12 @@
 | SQL server  | .mdf, .ndf, .ldf | C:\Program Files\Microsoft SQL Server\MSSQL  |
 | MySQL  | .frm, .myd, .myi  | c:\Wamp\bin\mysql\mysql5. 7.13\data  |
 | Postresql  | .mkd  | c:\Program Files\PostgreSQL\[Version]\data  |
+
+
+
+## exercices 2
+Postresql dispose de 12 droits : SELECT, INSERT, UPDATE, DELETE, TRUNCATE, REFERENCES, TRIGGER, CREATE, CONNECT, TEMPORARY, EXECUTE et USAGE.
+
+## SQL
+La version actuelle de la norme SQL est : 2016 (13.0.5026.0)
+La version utilisée par les SGBD est la version 2016
